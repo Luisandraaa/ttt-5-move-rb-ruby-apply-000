@@ -12,4 +12,5 @@ input_to_index(index)
 
 move(board,2,"X")
 
-display_board(board)
+display(board)
+
